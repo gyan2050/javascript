@@ -9,6 +9,8 @@ console.log(3+3)
 // undefined 
 // symbol --uniqueness
 
+// object
+
 console.log(typeof null);
 console.log(typeof 2);
 console.log(typeof "hu");
