@@ -1,1 +1,2 @@
-console.log("Gyan");
+console.log("Gyan")
+console.log(8)
